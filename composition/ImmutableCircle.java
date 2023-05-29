@@ -22,8 +22,6 @@ public class ImmutableCircle {
 
     public Point getCenter() {
         return new Point(center.getX(), center.getY());
-        // exw instance mias klashs kai xrhsimopoiw kai tis methodous tou
-        //composition & forwarding
     }
 
     public int getRadius() {
