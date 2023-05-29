@@ -1,7 +1,6 @@
 package gr.aueb.cf.ch11.immutableproject;
 
 public class Point3DImmutable {
-    //edw den xreiazetai na kanw kati allo giati pairnw immutable
     private final ImmutablePoint point;
     private final int z;
 
